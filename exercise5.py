@@ -17,7 +17,7 @@ print(type(b))
 
 # kiểu dữ liệu str
 b = "Hello World"
-print(typle(b))
+print(type(b))
 # #kiểu dữ liệu str dùng để chứa dữ liệu dưới dạng chuỗi kí tự
 
 #kiểu dữ liệu none 
